@@ -1,4 +1,4 @@
-# 👉 **[Nexcent Website](https://kushovka.github.io/positivus/)** — React + Tailwind CSS
+# 👉 **[Nexcent Website](https://kushovka.github.io/Nexcent/)** — React + Tailwind CSS
 <br><br>
 
 <br><br>
