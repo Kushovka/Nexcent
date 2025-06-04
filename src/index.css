@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.swiper-pagination-bullet {
+  background-color: #4caf4f !important;
+  opacity: 0.3 !important;
+  width: 10px !important;
+  height: 10px !important;
+  margin: 0 6px !important;
+  transition: background-color 0.3s ease !important;
+}
+
+.swiper-pagination-bullet-active {
+  background-color: #4caf4f !important;
+  opacity: 1 !important;
+}
+
+@keyframes marquee {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-marquee {
+  animation: marquee 10s linear infinite;
+}
+@layer utilities {
+  .paused {
+    animation-play-state: paused;
+  }
+}
