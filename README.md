@@ -94,7 +94,7 @@ to demonstrate frontend development skills.</p>
 
 # ⚒️ In progress
 
-<div>
+<div align="center">
 <p>✅ Верстка лендинга на React + Tailwind CSS </p>
 <p>✅ Реализована анимация блоков через Framer Motion</p>
 <p>✅ Сайт сверстан по макету и разбит на компоненты</p>
