@@ -1,5 +1,6 @@
 # 👉 **[Nexcent Website](https://kushovka.github.io/Nexcent/)** — React + Tailwind CSS
 <br><br>
+![photo-output](https://github.com/user-attachments/assets/b963cc36-0faa-4a34-8565-1ceadabd0c39)
 
 <br><br>
 <div align="center">
